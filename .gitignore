@@ -267,7 +267,7 @@ function p() --join the discord server
 end
 
 -- ui creating & handling
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/violin-suzutsuki/LinoriaLib/main/Library.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/PeasIn/LinoriaLib/main/Library.lua"))()
 
 
 local Window = Library:CreateWindow("Universal Silent Aim")
